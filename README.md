@@ -6,7 +6,7 @@ The Civic Opportunity Project will seek to provide a curated journey for candida
 
 ### Project context
 
-Civic projects often exist within a larger context that may include multiple stakeholders, historic relationships, associated research, or other details that are relevant but not *required* for direct contributions. Gathering these details in one place is useful, but the ReadMe isn't that place. Use this section to [link to a Google Doc](#) or other documentation repository where contributors can dig in if they so choose. This is also a good place to link to your Code of Conduct.
+For more information on the project development, refer to: https://docs.google.com/document/d/1E4JIMNX9GgD_VcLqcnJCmR8kCnVi1GmgKCoKH9H71Cs/edit?ts=5ef27a61
 
 ### Technology used
 
