@@ -10,8 +10,8 @@ For more information on the project development, refer to: https://docs.google.c
 
 ### Technology used
 
-- Slack
-https://hackforla.slack.com/archives/C016CJZ8VTN
+GitHub: https://github.com/hackforla/civic-opportunity/projects/1
+Slack: https://hackforla.slack.com/archives/C016CJZ8VTN
 
 
 
