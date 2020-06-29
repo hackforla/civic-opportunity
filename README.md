@@ -10,8 +10,10 @@ For more information on the project development, refer to: https://docs.google.c
 
 ### Technology used
 
-- Each platform or framework should get its own bullet.
-- Each platform should include an [active link](#) to the official documentation.
+- Slack
+https://hackforla.slack.com/archives/C016CJZ8VTN
+
+
 
 
 
