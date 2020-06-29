@@ -8,7 +8,7 @@ The Civic Opportunity Project will seek to provide a curated journey for candida
 
 For more information on the project development, refer to: https://docs.google.com/document/d/1E4JIMNX9GgD_VcLqcnJCmR8kCnVi1GmgKCoKH9H71Cs/edit?ts=5ef27a61
 
-### Technology used
+### Technology used!
 
 - GitHub: https://github.com/hackforla/civic-opportunity/projects/1
 - Slack: https://hackforla.slack.com/archives/C016CJZ8VTN
