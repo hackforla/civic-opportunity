@@ -1,8 +1,6 @@
 # Civic Opportunity project
 
-Hack For LA brings together civic-minded technologists to build digital products, programs and services with community partners and local government to address issues in the LA region. This is done by using the web as a platform for local government and community service. 
-
-The Civic Opportunity Project will seek to provide a curated journey for candidates to serve in the Civic space in the form of technology. The program goal is to equip the participants with the proper resources, exposure and toolsets to excel in the competitive workforce. The Civic Opportunity Project will continuously iterate the experience process and ultimately exist as a software product that can be streamlined and replicated.
+The Civic Opportunity Project will seek to provide a curated journey for Civic Tech volunteers. Our goal is to equip participants with the resources, exposure and toolsets to excel in a competitive workforce. The project will continuously iterate the experience process and ultimately exist as software that can be streamlined, scaled and replicated.
 
 ### Project context
 
