@@ -1,4 +1,4 @@
-# Project title and description
+# Civic Opportunity project
 
 Hack For LA brings together civic-minded technologists to build digital products, programs and services with community partners and local government to address issues in the LA region. This is done by using the web as a platform for local government and community service. 
 
@@ -15,11 +15,12 @@ For more information on the project development, refer to: [Civic Opportunity Pr
 
 # How to contribute
 
-- To join the team {Reach out to our Product Manager, Ray Fambro at ray.fambro@gmail.com}.
+- To join the team, reach out to our Product Manager, [Ray Fambro](https://hackforla.slack.com/team/U015QPJS34M) on our slack.
 - The roles we are currently looking to fill are:
   - Product Owner
   - UI Designer
   - Business Analyst
   - Content Writer
+  - Data Scientist
   
 
