@@ -1,4 +1,4 @@
-# Data Engineer(DevOps)
+# Data Engineer (DevOps)
 
 This team member will be responsible for developing data pipelines to clean, transform, and process data. They will ensure data integration between systems, including deployment of machine-learning pipelines where necessary.
  
