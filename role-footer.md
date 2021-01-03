@@ -1,0 +1,5 @@
+We bring together civic-minded volunteers to build digital products, programs, and services with community partners and local government to address issues in the Los Angeles region. Hack for LA is a project of Code for America and is its official Los Angeles chapter.
+
+In 2015, Hack for LA got its start as a Hackthon for civic tech. Fast forward to the present day, we now have 20 project teams with many stakeholders ranging from the LA Department of Transportation (Sustainable Cities) to Point Source Youth (Youth Homelessness).
+
+We reference formal training above. But to be clear, if you can do it, we don’t care how you learned.  You will find yourself in the company of all types of people, from the high school wizkid and PHDs to self taught high school dropouts, who have built and sold tech companies.  There is no one way to learn and we welcome your experience no matter how it was gained.  HackforLA is full of people driven to make a difference through civic tech. We look forward to your hearing how you will make a difference.
