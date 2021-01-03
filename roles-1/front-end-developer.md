@@ -1,4 +1,4 @@
-# Front-End Developer 
+# Front End Developer 
 This team member will be responsible for implementing visual elements that are visible from the users vantage point within a web/mobile application. This means combining the art of design with the science of programming and translating UI/UX wireframing into code.
  
 ## Responsibilities
