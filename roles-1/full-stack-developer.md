@@ -1,4 +1,4 @@
-# Full-Stack Developer 
+# Full Stack Developer 
 This team member is a computer programmer that is proficient in both front and back end coding. The primary responsibilities will include designing user interactions on websites, developing servers and databases for website functionality and coding for mobile platforms.
  
 ## Responsibilities
