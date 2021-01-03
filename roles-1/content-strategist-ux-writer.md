@@ -1,4 +1,4 @@
-# Content Strategist/UX Writer
+# Content Strategist (UX Writer)
 Are you a creative thinker? Do you have an interest in storytelling? If you answered yes, then HfLA is looking for you! As a Copywriter, you will have the opportunity to craft the content for the website.  Collaborate with a multidisciplinary team within HfLA on creating the overall voice of the project, marketing materials, product descriptions, and direct email communications. As a Content Writer, we would rely on you to be creative, innovative, and able to easily adapt to rapid changes in stakeholder preferences. 
  
 ## Responsibilities
