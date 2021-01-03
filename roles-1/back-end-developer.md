@@ -1,4 +1,4 @@
-# Back-End Developer 
+# Back End Developer 
 This team member is responsible for writing the web services and APIs used by front-end developers and mobile application developers. They will also be responsible for server-side web application logic as well as the integration of the front-end and database layer.
  
 ## Responsibilities
