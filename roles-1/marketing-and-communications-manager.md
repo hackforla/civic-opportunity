@@ -1,4 +1,4 @@
-# Marketing/Communications Manager
+# Marketing & Communications Manager
 We are looking for a creative Digital Marketing Manager to lead our marketing team. With this position, our goal is to help grow HfLA’s brand influence locally while also increasing online presence and awareness. You will work directly with project leads and duties will include planning and iterating our digital marketing campaigns across all digital networks, and monitoring interns during the implementation process (either directly or through coordinators). The ideal candidate is someone with experience in marketing, working cross functionally, art direction, social media management and team leadership. 
 
 Hack For LA brings together civic-minded technologists to build digital products, programs and services with community partners and local government to address issues in the LA region. This is done by using the web as a platform for local government and community service.
