@@ -2,6 +2,8 @@
 
 These are the defined roles at Hack for LA and which Community of Practice they are under
 
+If you have identified a new role that is not represented here, please use this [template](https://docs.google.com/document/d/1Zev68NTNHk4KBOYLta07QMK0kKSBQk6771VcGv0eO9c/copy) document to define it.
+
 - UI/UX 
   - [UI/UX - Design](https://github.com/hackforla/UI-UX/projects/3) | 0
      - [ ] ui-designer
