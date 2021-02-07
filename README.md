@@ -4,7 +4,11 @@ The Civic Opportunity Project will seek to provide a curated journey for Civic T
 
 ### Project context
 
-For more information on the project development, refer to: [Civic Opportunity Project One Sheet](https://github.com/hackforla/civic-opportunity/blob/master/Civic_Opportunity_Project_OnePage.pdf)
+For more information on the project development, refer to: 
+
+[Civic Opportunity Project One Sheet](https://github.com/hackforla/civic-opportunity/blob/master/Civic_Opportunity_Project_OnePage.pdf)
+
+[Civic Opportunity Project Initiatives](https://docs.google.com/document/d/1s1ZiPiepMi-VEYKqoa93kP8STUnDKCt9LMnF1CXMTTw/edit#)
 
 ### Technology used
 
