@@ -18,11 +18,6 @@ For more information on the project development, refer to:
 # How to contribute
 
 - To join the team, reach out to our Product Manager, [Ray Fambro](https://hackforla.slack.com/team/U015QPJS34M) on our slack.
-- The roles we are currently looking to fill are:
-  - Product Owner
-  - UI Designer
-  - Business Analyst
-  - Content Writer
-  - Data Scientist
+- Review our [Project Wiki](https://github.com/hackforla/civic-opportunity/wiki/Joining-the-Team) to see what roles we are currently looking to fill!
   
 
