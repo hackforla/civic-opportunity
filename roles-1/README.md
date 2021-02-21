@@ -4,7 +4,7 @@ These are the defined roles at Hack for LA and which Community of Practice they 
 
 If you have identified a new role that is not represented here, please use this [template](https://docs.google.com/document/d/1Zev68NTNHk4KBOYLta07QMK0kKSBQk6771VcGv0eO9c/copy) document to define it.
 
-- [**UI/UX - Design**](https://github.com/hackforla/UI-UX/projects/3)
+- [**UI/UX - Design**](https://github.com/hackforla/UI-UX/projects/3) Community of Practice
    - [x] [ui-designer](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/ux-designer.md)
    - [x] [ux-designer](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/ux-researcher.md)
 - [**UI/UX - Research**](https://github.com/hackforla/UI-UX/projects/2)
