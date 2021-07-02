@@ -12,8 +12,8 @@ First issue for new team members for onboarding purposes.
 
 ### Action Items
 **Issue Creation**
+- [ ] Title the issue the following "New Member Onboarding: <your name>" and click 'Submit new issue'
 - [ ] Assign ticket to yourself
-On the right side of the page...
 - [ ] Set the correct 'Project' on the issue
 - [ ] Set issue project status to 'In progress'
 - [ ] If you need assistance with the ticket for any reason, set the project status to 'review' and bring it up at the next team meeting
