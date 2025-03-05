@@ -15,9 +15,6 @@ For more information on the project development, refer to:
 - GitHub: [Project Management Board](https://github.com/hackforla/civic-opportunity/projects/1)
 - Slack: [#civic-opportunity](https://hackforla.slack.com/archives/C016CJZ8VTN)
 
-# How to contribute
 
-- To join the team, reach out to our Product Manager, [Alex Lee](https://hackforla.slack.com/team/U01KDATDLLQ) on our slack.
-- Review our [Project Wiki](https://github.com/hackforla/civic-opportunity/wiki/Joining-the-Team) to see what roles we are currently looking to fill!
   
 
